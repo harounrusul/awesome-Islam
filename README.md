@@ -62,8 +62,9 @@ Your contributions are always welcome!
 - [Django-Quran](https://github.com/idris/django-quran) : Quranic models and helpers for use in Django projects http://www.openislam.org/
 - [Hijra](https://github.com/ojuba-org/hijra) : Hijri Islamic Calendar utils in python
 - [Pray-Times](https://github.com/abodehq/Pray-Times/tree/master/Code/v2/python) : an open-source library for calculating Muslim prayers times.
-- [pyIslam](https://github.com/abougouffa/pyIslam) : pyIslam, a Python library to calculate prayer times, hijri date, qiblah direction and more http://abougouffa.github.io/pyIslam
+- [Islam](https://github.com/abougouffa/pyIslam) : Islam, a Python library to calculate prayer times, hijri date, qiblah direction and more.
 - [python-quran-odoa](https://github.com/Keda87/python-quran-odoa) : Python library to get random surah within quran including Indonesian/English translation.
+- [pyIslam](https://github.com/Moha369/PyIslam) : Python library that uses the Quran.com api to get verses.
 
 #### Objective-C
 - [BAPrayerTimes](https://github.com/batoulapps/BAPrayerTimes) : BAPrayerTimes is an Objective-C library for calculating Islamic prayer times. It provides a convenient Objective-C interface to the ITL prayer times library, making it easy to correctly calculate prayer times on iOS and OS X.
