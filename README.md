@@ -1,3 +1,5 @@
+<img src="img/bismillah.jpg" alt="Bismillah" style="float:left; margin-right:10px;">
+
 # awesome-Islam
 A curated list of awesome islam related projects, frameworks, resources and other awesomeness.
 
